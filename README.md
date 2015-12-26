@@ -1,6 +1,25 @@
 # Nginx-install-auto
 Script d'installation automatique pour Nginx en version 1.8.0
 
+
+[This](http://nginx.org/en/linux_packages.html)
+
+
+[This](http://nginx.org/en/linux_packages.html)
+
+
+[This](http://nginx.org/en/linux_packages.html)
+
+
+[This](http://nginx.org/en/linux_packages.html)
+
+
+[This](http://nginx.org/en/linux_packages.html)
+
+
+[This](http://nginx.org/en/linux_packages.html)
+
+
 Pour l'utiliser : 
 
 ```
